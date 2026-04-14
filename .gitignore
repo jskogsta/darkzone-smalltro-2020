@@ -1,0 +1,6 @@
+# KickAssembler output
+*.prg
+*.sym
+
+# macOS
+.DS_Store
