@@ -2,8 +2,11 @@
 
 C64 intro released by [DarkZone](https://darkzone.no/) at [Syntax 2020](https://www.syntaxparty.org/) in Melbourne, Australia. Originally intended as a Flashback 2020 compo entry — Covid-19 cancelled that party, so it was released at Syntax instead.
 
+![Screenshot](screenshot.jpg)
+
 - **Release on CSDB:** https://csdb.dk/release/?id=197959
 - **Run in browser:** https://jorgen.skogstad.com/8-16bit/smalltro/
+- **Download PRG:** [`release/dz_smalltro_syntax_2020_compressed.prg`](release/dz_smalltro_syntax_2020_compressed.prg)
 
 ## About
 

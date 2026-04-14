@@ -1,6 +1,7 @@
-# KickAssembler output
+# KickAssembler output — excluded from root, kept in release/
 *.prg
 *.sym
+!release/*.prg
 
 # macOS
 .DS_Store
